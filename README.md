@@ -1,26 +1,28 @@
 # Pràctica 5 - Imatges al web
 
-En aquesta pràctica, es requereix la creació d'una pàgina web senzilla que contingui quatre versions d'una mateixa imatge. A continuació, es detallen els passos per realitzar aquesta tasca.
+## [Página Web Responsive - Ver en GitHub Pages](https://cosmincaliin.github.io/M9UF2_NF1_P5ImatgesALaWeb/)
 
-## Pas 1: Selecció de la Imatge
+En esta práctica, se requiere la creación de una página web sencilla que contenga cuatro versiones de una misma imagen. A continuación, se detallan los pasos para realizar esta tarea.
 
-Primerament, he seleccionat una imatge de [Narendra Modi](https://www.pngmart.com/files/22/Narendra-Modi-PNG-Image.png) des de PNGMart. És fonamental tenir en compte els termes de la llicència de la imatge escollida en aquest punt.
+### Paso 1: Selección de la Imagen
 
-## Pas 2: Edició de la Imatge
+En primer lugar, he seleccionado una imagen de [Narendra Modi](https://www.pngmart.com/files/22/Narendra-Modi-PNG-Image.png) desde PNGMart. Es fundamental tener en cuenta los términos de la licencia de la imagen escogida en este punto.
 
-Amb l'ús de l'eina GIMP, he afegit un element a la imatge, assegurant-me que aquest element té una certa transparència. Posteriorment, he creat quatre versions de la imatge modificada amb els següents formats: PNG, GIF, JPEG i WEBP. La grandària de les imatges ha estat decidida de manera consistent, mantenint la mateixa mida per a totes elles.
+### Paso 2: Edición de la Imagen
 
-## Pas 3: Creació de la Pàgina Web Responsive
+Utilizando la herramienta GIMP, he agregado un elemento a la imagen, asegurándome de que este elemento tenga cierta transparencia. Posteriormente, he creado cuatro versiones de la imagen modificada con los siguientes formatos: PNG, GIF, JPEG y WEBP. El tamaño de las imágenes ha sido decidido de manera consistente, manteniendo la misma medida para todas ellas.
 
-S'ha desenvolupat una pàgina web responsive que mostra les quatre imatges en un quadrat de 2x2. Aquest quadrat ocupa el 90% de l'espai vertical disponible. En pantalles més petites amb un ample inferior a 600px, les quatre fotos es mostren en una columna. Per a la creació d'aquesta pàgina web, s'ha utilitzat un framework CSS segons la conveniència.
+### Paso 3: Creación de la Página Web Responsive
 
-## Entrega
+Se ha desarrollado una página web responsive que muestra las cuatro imágenes en un cuadro de 2x2. Este cuadro ocupa el 90% del espacio vertical disponible. En pantallas más pequeñas con un ancho inferior a 600px, las cuatro fotos se muestran en una columna. Para la creación de esta página web, se ha utilizado un framework CSS según la conveniencia.
 
-La entrega d'aquesta pràctica es realitzarà a través d'un repositori públic Git. Per fer-ho, es proporcionaran els següents enllaços:
+### Entrega
 
-1. [Enllaç al repositori](https://github.com/cosmincaliin/M9UF2_NF1_P5ImatgesALaWeb)
-2. [Enllaç a la imatge original utilitzada](https://www.pngmart.com/files/22/Narendra-Modi-PNG-Image.png)
+La entrega de esta práctica se realizará a través de un repositorio público Git. A continuación, se proporcionan los siguientes enlaces:
 
-Es gravaran els punts de validació (commits) que es considerin pertinents durant el desenvolupament del projecte.
+1. [Enlace al Repositorio en GitHub](https://github.com/cosmincaliin/M9UF2_NF1_P5ImatgesALaWeb)
+2. [Enlace a la Imagen Original Utilizada](https://www.pngmart.com/files/22/Narendra-Modi-PNG-Image.png)
 
-Aquesta pràctica es realitzarà seguint els passos esmentats anteriorment per aconseguir els objectius establerts. Si hi ha algun dubte o aclariment, estic a la vostra disposició per proporcionar més informació o ajudar amb qualsevol pregunta que tingueu.
+Se registrarán los puntos de validación (commits) que se consideren pertinentes durante el desarrollo del proyecto.
+
+Esta práctica se llevará a cabo siguiendo los pasos mencionados anteriormente para lograr los objetivos establecidos. Si tienes alguna duda o necesitas aclaraciones adicionales, estoy a tu disposición para proporcionar más información o ayudarte con cualquier pregunta que puedas tener.
