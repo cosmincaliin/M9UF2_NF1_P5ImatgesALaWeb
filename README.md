@@ -18,8 +18,8 @@ S'ha desenvolupat una pàgina web responsive que mostra les quatre imatges en un
 
 La entrega d'aquesta pràctica es realitzarà a través d'un repositori públic Git. Per fer-ho, es proporcionaran els següents enllaços:
 
-1. [Enllaç al repositori](link_al_repositori)
-2. [Enllaç a la imatge original utilitzada](link_a_la_imatge_original)
+1. [Enllaç al repositori](https://github.com/cosmincaliin/M9UF2_NF1_P5ImatgesALaWeb)
+2. [Enllaç a la imatge original utilitzada](https://www.pngmart.com/files/22/Narendra-Modi-PNG-Image.png)
 
 Es gravaran els punts de validació (commits) que es considerin pertinents durant el desenvolupament del projecte.
 
